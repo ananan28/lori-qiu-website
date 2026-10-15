@@ -1,4 +1,4 @@
-# Lori Qiu website
+# Lori website
 
 Domain: loriqiu.com
 Email: loriqiu386@gmail.com
